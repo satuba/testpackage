@@ -1,0 +1,14 @@
+{
+  "name": "testpkg",
+  "version": "1.0.0",
+  "description": "This is a package for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Satu Bailey",
+  "license": "MIT"
+}
