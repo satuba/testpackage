@@ -1,0 +1,22 @@
+{
+  "name": "@satubailey/largerpackage",
+  "version": "1.0.0",
+  "description": "This package.json is a bit larger than the other one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satuba/largerpackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Satu Bailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satuba/largerpackage/issues"
+  },
+  "homepage": "https://github.com/satuba/largerpackage#readme"
+}
