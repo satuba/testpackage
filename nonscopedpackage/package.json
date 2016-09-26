@@ -1,7 +1,7 @@
 {
-  "name": "@satubailey/largerpackage",
+  "name": "nonscopedtestpackage",
   "version": "1.0.0",
-  "description": "This package.json is a bit larger than the other one.",
+  "description": "This package is non-scoped",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/satuba/testpackage.git"
   },
-  "keywords": [
-    "npm", "test"
-  ],
   "author": "Satu Bailey",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satuba/testpackage/issues"
+  },
   "homepage": "https://github.com/satuba/testpackage#readme"
 }
